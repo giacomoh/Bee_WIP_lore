@@ -22,10 +22,6 @@ Thanks to this design, in case of a slash or rip in the fabric of the suit it ca
  
 Said extinguisher charge is little more than a manually-toggled water dispenser located behind the vertebrae, which effectively reduces the plasma colonids' typical dryness (the leading hypothesis for the cause of such a low humidity is their tendency to rapidly absorb liquid water for hydrogen, an element which the organisms are always quite eager to consume). 
 
-Plasmaman gloves are, contrary to popular belief, integral for the envirosuit to work. 
- 
-They're internally coated with thick memory foam to adapt to the sometimes lumpy boney fingers, and externally coated with thin but resilient rubber to maintain sensitivity and control in the hands. The hands on the envirosuit itself are one of the weakest spots on it due to these reasons. 
- 
 You might be thinking to yourself: this is all well and good, but, say, if a plasmaman has to, for example, put on glasses, are they screwed? The answer is, kind of! While the helmet is easy to quickly unscrew and equip again, such an operation can only be conducted safely under a shower, in an inert environment, or in the dangerous vacuum of space, unless the user is brave (or stupid) enough and quick with their reflexes.
  
 # Reception
