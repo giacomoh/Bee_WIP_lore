@@ -7,13 +7,16 @@ This fork aims to reorganize, expand and adjust the common lore for the Beestati
 - The documents should be made more digestible (with a summary in the first paragraph)
 - And cultures for each species/planet should be better defined.
 
-# DO TO
-This is what still needs to be done:
-- Clear timeline established
+# DO TO:
+This is what still needs to be done (in order of priority):
+- Establish new general lore (with consistent timeline)
 - Add IPC document
 - Add Apid document
-- Major organization/governaments relations
-- Species relations
+- Expand species
+- Major organizations/governments relation documents
+- Species relations document
+- Summary chapter for each document
+- Add Grod (if it's merged)
 
 # What This Is Not
 This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
